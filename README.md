@@ -1,5 +1,10 @@
 # CMIT Engineerim 
 
+Вопросы можно задавать на почту m12sl@yandex.ru
+
+
+
+
 ## Кратко о python
 Есть хороший ресурс с простыми короткими квестами на английском языке:
 https://www.dataquest.io, первый трек -- **Python Programming**.
